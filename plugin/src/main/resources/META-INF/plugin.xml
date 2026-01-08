@@ -1,14 +1,18 @@
 <idea-plugin package="com.jetbrains.packagesearch" require-restart="false">
-    <name>[DEPRECATED] Package Search</name>
+    <name>Package Search (2025.3 Compatible)</name>
     <vendor>JetBrains</vendor>
     <resource-bundle>messages.packageSearchBundle</resource-bundle>
 
     <description><![CDATA[
-<h2>Plugin Deprecation Timeline</h2>
+<h2>Community Fork - 2025.3 Compatible</h2>
 <p>
-    <b>Version for IntelliJ IDEA 2024.3:</b> is the last functional version of the plugin.
-    There will be no version for IntelliJ IDEA 2025.1 or further. The Package Search Plugin
-    and its associated services will be discontinued.
+    This is a community-maintained fork that extends compatibility to <b>IntelliJ IDEA 2025.3</b>.
+</p>
+<h2>Plugin Deprecation Timeline (Official Version)</h2>
+<p>
+    <b>Version for IntelliJ IDEA 2024.3:</b> was the last officially supported version of the plugin.
+    The official plugin will not be updated for IntelliJ IDEA 2025.1 or further. The Package Search Plugin
+    and its associated services were discontinued by JetBrains.
 </p>
 <p>
     The Package Search web service, including the website and API, will be shut down
