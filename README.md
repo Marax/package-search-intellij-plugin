@@ -2,8 +2,10 @@
 
 ## Plugin Deprecation Timeline
 
-- **Version for IntelliJ IDEA 2024.3**: is the last functional version of the plugin.
-- There will be no version for IntelliJ IDEA 2025.1 or further. The Package Search Plugin and its associated services will be discontinued.
+**Note**: This fork extends compatibility to IntelliJ IDEA 2025.3, despite the official deprecation notice below.
+
+- **Official Version for IntelliJ IDEA 2024.3**: was the last officially supported version of the plugin.
+- The official plugin will not be updated for IntelliJ IDEA 2025.1 or further. The Package Search Plugin and its associated services were discontinued by JetBrains.
 
 The Package Search web service, including the website and API, will be shut down on **April 1, 2025**. This means that all older versions of plugins will cease functioning after this date. Please plan your transition accordingly.
 
@@ -38,7 +40,7 @@ It also supports Kotlin Multiplatform projects for both for Gradle and Amper.
 You can download the plugin from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/12507-package-search)
 or directly in IntelliJ by going to `Preferences > Plugins > Marketplace` and searching for `Package Search`.
 
-The plugin is compatible with IntelliJ 2023.2 and newer.
+The plugin is compatible with IntelliJ 2023.2 and newer. This fork has been updated to support IntelliJ IDEA 2025.3.
 
 # Building
 
